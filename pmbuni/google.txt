@@ -14,7 +14,7 @@
     <meta name="og:image" content="https://assets.kacamataopung.com/slot/s21vQW.png" />
     <link rel="shortcut icon" href="https://assets.kacamataopung.com/slot/slot.png" />
     <link rel="canonical" href="https://www.pmb.unimaju.ac.id/" />
-    <link rel="amphtml" href="https://dailynerbaskan.com/senja/"/>
+    <link rel="amphtml" href="https://uia-architects.org/g4z/manual.html"/>
     <link rel="dns-prefetch" href="https://images-fe.ssl-images-amazon.com">
     <link rel="dns-prefetch" href="https://m.media-amazon.com">
     <link rel="dns-prefetch" href="https://completion.amazon.com">
